@@ -17,9 +17,15 @@ Goal:
 Switch → Work on DevOps projects → Become a skilled professional → Support family & parents’ dreams
 
 How will I stay consistent every single day?
+
 I will keep reminding myself of my ultimate goal to stay motivated and focused.
+
 On weekdays, I will dedicate 2 hours in the afternoon to learning concepts.
+
 I will spend 1 hour at night doing hands-on practice to strengthen my understanding.
+
 On weekends, I will attend live sessions with bhaiya.
+
 After the live sessions, I will revisit the recorded sessions on the same day for better understanding.
+
 Along with learning, I will continue applying to companies and maintain my hustle for switching to a better role.
