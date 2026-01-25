@@ -61,4 +61,11 @@ We can run any process in the background using the & symbol at the end of the co
  there are many more process link 
  Zombie process
  Orphan process.
+
+ **SystemD**
+This is the first process that starts when we start the computer and remains active until we shut down our computer.
+
+**PID (Process ID**) is the number given to each process, and once the process is complete or ends, the PID can be used by another process. However, two processes cannot have the same PID at once; it is unique.
+
+**PID** for SystemD is **1**
  
