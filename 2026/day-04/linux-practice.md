@@ -3,6 +3,11 @@ Linux Practice Session:
 Today we are going run the command and check the output.
 
 Basic neviagting command 
+**touch**
+<img width="789" height="56" alt="image" src="https://github.com/user-attachments/assets/bf1c1d0d-d247-4d5c-aff1-a7e62dd43b52" />
+
+**cat**
+<img width="759" height="170" alt="image" src="https://github.com/user-attachments/assets/985837d3-901b-4e80-bd92-c74251cd75f5" />
 
 **Pwd**
 <img width="811" height="137" alt="image" src="https://github.com/user-attachments/assets/93f090e3-f4b2-4cd3-a6a6-5cfcd19d8574" />
@@ -34,6 +39,10 @@ htop:
 **head filename**
 <img width="1110" height="86" alt="image" src="https://github.com/user-attachments/assets/0741ba8d-2295-497d-a0ea-79b38154180a" />
 
+**tail**
+<img width="823" height="149" alt="image" src="https://github.com/user-attachments/assets/e3bdaa2b-1d51-4cb3-832c-42a12584ed79" />
+
+
 **networking commands**
 
 **ping:**
@@ -46,5 +55,7 @@ file Management command:
 
 **chmod**
 <img width="823" height="307" alt="image" src="https://github.com/user-attachments/assets/152f4e27-25b9-42a3-91aa-31a138014618" />
+
+
 
 
