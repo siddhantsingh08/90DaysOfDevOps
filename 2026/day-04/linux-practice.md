@@ -44,7 +44,7 @@ htop:
 
 file Management command:
 
-**chmod **
+**chmod**
 <img width="823" height="307" alt="image" src="https://github.com/user-attachments/assets/152f4e27-25b9-42a3-91aa-31a138014618" />
 
 
