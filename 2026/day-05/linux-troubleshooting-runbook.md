@@ -1,6 +1,6 @@
 # Day 5 of 90dayschallenge 
 
-I  docker and will be debugging it on various conditions:
+I have used nginx(docker container) as the target service and will be debugging it on various conditions:
 
 - **Uname -a** 
 This command i have used to check the kernel version 
