@@ -33,3 +33,9 @@ I have completed all the below step and mentioned the command that I have used f
 
 ![](2026-02-03-14-25-29.png)
 ![](2026-02-03-14-25-50.png)
+
+## What I Learned
+Today I learned to create different user and group 
+Set and restrict permission of a file and folder
+I learner how to manage the user an group and assign user to a group.
+
