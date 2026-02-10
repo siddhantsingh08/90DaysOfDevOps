@@ -45,7 +45,7 @@ echo "Let the show begin"
 <img width="780" height="379" alt="image" src="https://github.com/user-attachments/assets/ae96f600-967f-4ac6-b154-26b1de380398" />
 <img width="1120" height="305" alt="image" src="https://github.com/user-attachments/assets/e94e33e0-d840-48fa-933d-309900d671d8" />
 
-- Task 3: Command-Line Arguments
+# Task 3: Command-Line Arguments
 Create greet.sh that:
 
 Accepts a name as $1
@@ -69,11 +69,13 @@ fi
 
 Create args_demo.sh that:
 
-Prints total number of arguments ($#)
-Prints all arguments ($@)
-Prints the script name ($0)
 <img width="1452" height="198" alt="image" src="https://github.com/user-attachments/assets/6af89489-21b5-4601-a656-9e34c3e242fd" />
 <img width="827" height="260" alt="image" src="https://github.com/user-attachments/assets/3031a406-0c9e-48f4-82ad-3a2b32090373" />
+
+#  Task 4 - Install Packages via Script
+I have created a script to check if the package is installed or not is installed then continoue and install remaining package
+<img width="820" height="262" alt="image" src="https://github.com/user-attachments/assets/df28debc-29d4-4914-8605-68dc382f9959" />
+<img width="999" height="504" alt="image" src="https://github.com/user-attachments/assets/94c84051-fa00-4e13-969b-60b669d5e374" />
 
 
 
